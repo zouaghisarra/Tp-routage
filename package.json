@@ -1,0 +1,15 @@
+{
+  "name": "tp-routage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ex2.js",
+  "scripts": {
+   "start":"nodemon ex1", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
